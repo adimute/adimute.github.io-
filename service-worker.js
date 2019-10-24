@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/adimute/adimute.github.io-/adi/precache-manifest.2feb8fb9b16421c8e6cb7f43ef2cb3c2.js"
+  "/adimute/adimute.github.io-/adi/precache-manifest.a9b90e277cb265d20f23016b2a6b9abd.js"
 );
 
 self.addEventListener('message', (event) => {
